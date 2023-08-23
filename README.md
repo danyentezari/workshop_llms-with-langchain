@@ -1,4 +1,5 @@
-# workshop_llms-with-langchain
+# Large Language Models with LangChain
+#### workshop_llms-with-langchain
 This repo is for the workshop "Large Language Models with LangChain | Practical Workshop"
 
 https://www.meetup.com/bignumber/events/295486740/
